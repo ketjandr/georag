@@ -2,7 +2,7 @@
 
 **Retrieval-Augmented Reasoning over NASA Planetary Datasets**
 
-[Live Demo](https://planetaryexplorer.vercel.app/) · [GitHub](https://github.com/Koiiichi/planetaryexplorer-vercel)
+[Live Demo](https://planetaryexplorer.vercel.app/)
 
 ---
 
