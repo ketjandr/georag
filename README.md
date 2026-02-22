@@ -136,7 +136,3 @@ uvicorn backend.main:app --reload   # separate terminal
 - **Backend**: FastAPI, Python
 - **Frontend**: Next.js, TypeScript, Tailwind, OpenSeadragon
 - **Data**: NASA IAU planetary nomenclature (Moon, Mars, Mercury)
-
-## Origins
-
-Originally built at the [2025 NASA Space Apps Challenge](https://www.spaceappschallenge.org/2025/find-a-team/slack-overflow/?tab=project) as "Planetary Explorer". Extended with the GeoRAG fine-tuning and retrieval pipeline.
